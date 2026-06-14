@@ -1,0 +1,7 @@
+Admin,1234,ADMIN
+Leandro,2456,ESTUDIANTE,Blanca
+Blanca,2592,PADRE,Leandro
+Dayron,2756,ESTUDIANTE,Flor
+Flor,2843,PADRE,Dayron
+Gabriel,4852,ESTUDIANTE,Rolando
+Rolando,4786,PADRE,Gabriel

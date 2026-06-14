@@ -1,0 +1,4 @@
+admin,1234,ADMIN
+nicolas,2026,ESTUDIANTE
+juan,abcd,ESTUDIANTE
+padre1,1234,PADRE
