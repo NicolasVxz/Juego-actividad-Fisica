@@ -1,8 +1,0 @@
-usuario,puntaje,nivel
-Luis,305,2
-Manolo,85,2
-Julio,110,3
-Tulio,440,3
-Giancarlo,370,2
-Alonso,180,2
-Gianfranco,285,6
