@@ -1,6 +1,0 @@
-usuario,puntaje,nivel
-
-
-Leandro,30,1
-Dayron,30,1
-Gabriel,30,1
